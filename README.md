@@ -1,3 +1,7 @@
 # 'gitgood' repository
 
-A report to learn how to use git.
+A repo to learn how to use git.
+
+## Section 1
+
+How to git good at version control.
